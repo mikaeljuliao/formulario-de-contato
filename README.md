@@ -1,2 +1,3 @@
-# formulario-de-contato
-Este projeto é uma aula feita por mim sobre como enviar seus formulários para o e-mail sem precisar de backend, apenas com HTML.
+# Envie E-mails de um Formulário de Contato HTML
+
+Uma solução simples de envio de formulário usando apenas HTML. [Veja mais](https://www.youtube.com/watch?v=2umsItNQ9mI).
